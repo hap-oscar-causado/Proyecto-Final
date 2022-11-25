@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/new/persnj">
+        <file>Lily1.0.png</file>
+        <file>Styles/map_backgroud.png</file>
+        <file>Lily2.0.png</file>
+        <file>Styles/Obstaculos/Flor.png</file>
+        <file>Styles/Obstaculos/Pasto.png</file>
+        <file>Styles/Obstaculos/Roca.png</file>
+        <file>Styles/Obstaculos/Tronco.png</file>
+        <file>Styles/Obstaculos/Troncos.png</file>
+        <file>Styles/Objetos/Charco_muerte.png</file>
+        <file>Lily1.0esp.png</file>
+        <file>Styles/Monstruos/Objetos/cm_skull.png</file>
+        <file>Styles/Monstruos/Objetos/cm1.png</file>
+        <file>Styles/Monstruos/Objetos/cm2.png</file>
+        <file>Styles/Monstruos/Objetos/cm3.png</file>
+        <file>Styles/Monstruos/Objetos/cm4.png</file>
+        <file>Styles/Monstruos/Objetos/cm5.png</file>
+        <file>Styles/Monstruos/Objetos/cm6.png</file>
+        <file>Styles/Monstruos/Objetos/cm7.png</file>
+        <file>Styles/Monstruos/Objetos/cm8.png</file>
+        <file>Styles/Monstruos/Objetos/cm9.png</file>
+        <file>Styles/Monstruos/Objetos/Salida.png</file>
+        <file>Salida.png</file>
+        <file>Torre.png</file>
+        <file>Flecha Izquierda.png</file>
+        <file>Pantalla de carga.jpeg</file>
+        <file>Ghost (1).png</file>
+        <file>Pantalla de carga.jpeg</file>
+    </qresource>
+</RCC>
